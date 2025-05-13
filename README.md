@@ -1,4 +1,4 @@
-# IBM-Business-Intelligence
+# IBM-Business-Intelligence Analyst
 IBM Business Intelligence (BI) Analyst Professional Certificate
 
 This repository will handle/save all notes and projects pertaining to the course I will be doing. The IBM Business Intelligence (BI) Analyst Professional Certificate.
