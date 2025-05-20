@@ -1,1 +1,16 @@
 //
+KPI Notes: Write SMART KPIs - specific, measurable, attainable, realistic and time-bound. Defining KPIs is the first step when starting a BI project.
+Metrics are another measure to track the performance of specific business processes and help provide context to the performance of key business goals, but are not critical to its success like KPIs.
+
+Descriptive Analytics:
+  - descriptive analytics uses historical and current data to spot any trends and relationships between that data.
+  - it draws insights entirely from past data considering what happened, and can be treated as an initial phase of data processing.
+  - it is not possible to generalize the findings to a bigger population and it doesn't tell you anything about the data collection method used.
+
+Diagnostic Analytics:
+  - helps identify the reason an event occurred. It lets you discover hidden correlations and connections between variables, determine causal relationships, detect anomalies, and isolate patterns. 
+  - uses past data to provide answers to queries.
+  - It uses many techniques such as probability theory, time-series analysis, filtering, and regression analysis.
+
+Predictive Analytics:
+  - 
