@@ -20,3 +20,6 @@ Predictive Analytics:
 
 Prescriptive Analytics:
   - Recommends the optimal course of action to achieve a specific goal. It is used to make complex decisions, forecasting and automate the decision making process to be more data driven.
+
+In summary Descriptive analytics summarizes raw data to reveal trends. Diagnostic analytics correlates the data with other data sets to find the reason for the trends.
+Predictive analytics uses historical data to predict trends. Prescriptive data goes beyond descriptive, diagnostic, and predictive analytics to recommend the next course of action based on various data points.
