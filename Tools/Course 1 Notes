@@ -23,3 +23,7 @@ Prescriptive Analytics:
 
 In summary Descriptive analytics summarizes raw data to reveal trends. Diagnostic analytics correlates the data with other data sets to find the reason for the trends.
 Predictive analytics uses historical data to predict trends. Prescriptive data goes beyond descriptive, diagnostic, and predictive analytics to recommend the next course of action based on various data points.
+
+
+BI Component and Tools Notes:
+  - Before starting a BI Project its important to listing requirements, data sources, data governance, methods, and tools. You would also list the ETL process, data models, types of reports, analytical capabilities, training, and budget requirements for the BI project.
