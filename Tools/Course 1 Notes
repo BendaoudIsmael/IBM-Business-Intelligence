@@ -14,7 +14,7 @@ Diagnostic Analytics:
 
 Predictive Analytics:
   - predicts future outcomes
-  - relies on hitoral data and uses statistical models, data mining and ML for predicitions
+  - relies on historical data and uses statistical models, data mining and ML for predicitions
   - advantages - it eliminates the need for manual research, analyzes masive data sets and continuously refines models.
   - disadvantages - requires significant effor and time
 
@@ -26,4 +26,16 @@ Predictive analytics uses historical data to predict trends. Prescriptive data g
 
 
 BI Component and Tools Notes:
-  - Before starting a BI Project its important to listing requirements, data sources, data governance, methods, and tools. You would also list the ETL process, data models, types of reports, analytical capabilities, training, and budget requirements for the BI project.
+  - Before starting a BI Project its important to list requirements, data sources, data governance, methods, and tools. You would also list the ETL process, data models, types of reports, analytical capabilities, training, and budget requirements for the BI project.
+
+Gathering Data:
+  - The process begins by identifiying the information that needs to be collected which is determined by the goal. next step is to identidy the source which can be internal or external and they can be primary, sechondary or third-party.
+
+Wrangling Data:
+  - Process splits into four categories:
+      1. Discovery: Understanding your data for your use case and create a plan for cleaning, structuring, organizing and mapping your data.
+      2. Transformation: Structuring Data, Cleaning/Enriching Data
+      3. Validation: check the quality of data after structuring, normalizing, denormalizing, cleaning and enriching of data
+      4. Publising: Deliver the output of the weangled data for downstream project needs.
+
+  - It is important to document the steps you took, and add personal considerations for taking those steps, to convert raw data into analysis-ready data.
